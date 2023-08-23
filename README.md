@@ -1,0 +1,1 @@
+In this project I utilized Jquery and DOM manipulation in order to create an interacting simon color game with animations, sounds and answer checking.
